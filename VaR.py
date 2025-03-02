@@ -105,7 +105,7 @@ with st.sidebar:
             <img src="https://licensebuttons.net/l/by-nc/4.0/88x31.png" alt="CC BY-NC 4.0">
         </a>
         <br>
-        <span style="font-size: 0.8em;">By Your Name</span>
+        <span style="font-size: 0.8em;">Luís Simões da Cunha (2025)</span>
     </div>
     """, unsafe_allow_html=True)
 
